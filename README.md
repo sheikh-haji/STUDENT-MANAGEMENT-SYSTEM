@@ -17,7 +17,7 @@ NetbeanIDE
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/64357406/156102498-ae9f1be6-2484-4506-a14f-929b6ebfa45e.png">
 
  
-# Upload Attendence
+# Upload Attendance
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/64357406/156102552-dc8db6e1-4f4a-4fff-8d74-74a5db51f84c.png">
 
 
